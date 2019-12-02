@@ -8,5 +8,6 @@ namespace CorrectlyI.Interfaces
 {
     interface ISwim
     {
+        void Swim();
     }
 }

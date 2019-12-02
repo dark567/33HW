@@ -8,5 +8,6 @@ namespace CorrectlyI.Interfaces
 {
     interface IRead
     {
+        void Read();
     }
 }
